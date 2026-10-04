@@ -5,7 +5,7 @@ title: "IT265 Module 2: One-Page Treatment"
 
 # IT265 Module 2: One-Page Treatment
 
-**Working game title:**
+**Working game title:** Retro Kick Games
 
 Write one coherent, one-page-length treatment. Use the four prompts to begin, then combine your answers into natural prose.
 
@@ -18,7 +18,10 @@ Write one coherent, one-page-length treatment. Use the four prompts to begin, th
 
 ## Treatment Draft
 
-[Write your treatment here.]
+The player controls a soccer player in a retro style soccer match and have to score more goal than the other team. The main problem could be deciding on when to move, pass, shoot, or defend while trying to control the ball. 
+The game should be able to feel fast, simple, and competetive based on how much the player plays the game. The player moves around the field, passing the ball, shooting, and defending. The goal is to make the controls easy to understand and keeping the match fun.
+The main goal is to score more goals than the opposing team before match concludes. The limited match time creates more pressure because player needs to make quick decisions.
+The game will use simple retro pixel art style and focusing on short soccer matches rather than having many complicated features. The physical prototype can be ran with a small soccer field, two player capacity, a ball, and basic movement shooting. Special effects and moves can be applied later after basic gameplay is tested.
 
 Add only useful audience, comparison, or loop-timing context. Keep the evolving Gameplay Timing Onion and reading reflection in your separate journal. Do not turn this into the fuller treatment or a feature catalog.
 
