@@ -1,0 +1,1108 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [42. 667. 441.7999999999998977 654.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/as4957) >> >>
+<</Type /Annot /Subtype /Link /Rect [42. 641. 477.5999999999997385 628.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/as4957) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4547
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 19 Tf
+21.8499999999999979 TL
+0 g
+42. 748. Td
+(Case Study 1 - Atari) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+42. 724. Td
+(Student submission) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 706. Td
+(Assignment revision: 5 | Maximum points: 10 | Student: as4957 | Submitted:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 694. Td
+(2026-10-12T23:13:25.586Z | Submission revision: 260 | Receipt:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 682. Td
+(v4r_01M4S68W2J10G532R95AJTY639 | Exported: 2026-10-12T23:13:34.286Z) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+42. 670. Td
+(Worksheet link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 657. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/as4957) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+42. 644. Td
+(Grading link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 631. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/as4957) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+42. 618. Td
+(AI disclosure: Completed; 1 entry; 0 declared AI use; 1 declared no AI use; policy v1) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 596. Td
+(Game Overview) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 571. Td
+(Game details) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 554. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 539. Td
+(Identify the game: title, developer, publisher, original platform, genre, and release date. Note) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 526. Td
+(the version you played if different.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 513. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 498. Td
+(Title: International Open golf Champion) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 485. Td
+(Publisher: Ocean Software Ltd.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 472. Td
+(Developer: Really Interesting Software Company\(RISC\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 459. Td
+(Original Platform: PC) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 446. Td
+(Release Date: 1993) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 418. Td
+(History and industry) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 401. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 386. Td
+(Explain the historical context of the release and where the game fit in the industry at that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 373. Td
+(time.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 360. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 345. Td
+(International Open Gold Champion was released in 1993 during the time where video games were becoming better with) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 332. Td
+(graphics and gameplay. Golf games were becoming popular as the game allowed the players to experience sport at) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 319. Td
+(home on their computers. The game includes different game modes and 3d courses which made it realistic during the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 306. Td
+(old era. It's also part of the sport genre but not really that famous golf game.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 278. Td
+(Contemporary comparison) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 261. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 246. Td
+(Compare the game with a similar game from the same period, explaining a meaningful) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 233. Td
+(design similarity or difference.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 220. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 205. Td
+(Comparing with Fifa international soccer was also an sport genre game from the 1990s. Both games provided the same) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 192. Td
+(experience to the players on computer. However, golf mostly focused on hitting shots and choosing the power to hit) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 179. Td
+(while FIFA focused mostly on controlling players and scoring goals.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 151. Td
+(Gameplay Mechanics And Level Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 126. Td
+(Core gameplay mechanics) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 109. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 94. Td
+(Explain how the core actions and rules shape a recurring player decision. Support the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 81. Td
+(explanation with a gameplay example.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 1 of 3) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4532
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 748. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 733. Td
+(During the game player chooses the direction and power to hit each shot and requires the players to get the ball into the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 720. Td
+(hole in few possible shots.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 692. Td
+(Level design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 675. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 660. Td
+(Explain how the layout, obstacles, or progression affect a player decision or challenge. Use) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 647. Td
+(a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 634. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 619. Td
+(During the game, the golf course layout affects how players use their shots. For example, If theres a obstacle in the way) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 606. Td
+(like river or water, the player should be cautious and aim precisely to avoid it. This can make the game more strategic) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 593. Td
+(and challenging since players must think about the right path to shoot.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 565. Td
+(Graphic And Audio Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 540. Td
+(Visual design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 523. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 508. Td
+(Explain how a visual design choice affects the experience or communicates information) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 495. Td
+(during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 482. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 467. Td
+(The game uses 3d design graphics to see the golf layout which includes the grass, trees, and hazards in the way. For) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 454. Td
+(example, seeing water near the hole helps make player choose a safer option to shoot.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 426. Td
+(Sound design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 409. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 394. Td
+(Explain how music, sound effects, or their absence affect the experience or communicate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 381. Td
+(information during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 368. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 353. Td
+(The games sound makes playing more entertaining and helps give feedback during the gameplay. The sound of the golf) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 340. Td
+(club hitting the ball helps the players feel connected to the shot. The music also makes the players feel the nostalgic) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 327. Td
+(retro style game.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 299. Td
+(Narrative And Storytelling) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 274. Td
+(Narrative and setting) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 257. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 242. Td
+(Explain how the setting and story relate to play. Describe key events if present, or explain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 229. Td
+(the effect of a limited or absent story.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 216. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 201. Td
+(The game doesn't contain any types of story as the main goal is to hit few shots into the hole also the golf setting helps) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 188. Td
+(support players focusing on improving their skills, and trying their best to get the score.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 160. Td
+(Character development) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 143. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 128. Td
+(Explain how character development relates to gameplay, or how limited or absent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 115. Td
+(development affects the experience.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 102. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 87. Td
+(The game has no type of character development since the main focus is playing golf. Players focus mostly on improving) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 74. Td
+(their shots and getting better score.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 2 of 3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3434
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 748. Td
+(Impact And Reception) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 723. Td
+(Reception) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 706. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 691. Td
+(Summarize the critical and player reception using identifiable reviews or feedback.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 678. Td
+(Distinguish release-era reception from later reactions.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 665. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 650. Td
+(An 1993 preview in Amiga Power reviewed the game mechanics and gave praises on new shot control while also) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 637. Td
+(including many game options but criticizing on slow performance and clutter screen. Later the website Old-games.com) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 624. Td
+(mostly described it as decent golf simulation with providing decent courses and useful camera views but criticized about) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 611. Td
+(having long term replay value.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 583. Td
+(Industry and cultural impact) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 566. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 551. Td
+(Explain the game's industry impact and cultural significance using research. Avoid claiming) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 538. Td
+(influence that the sources do not establish.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 525. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 510. Td
+(The game contributed to the sports genre by offering 3d courses and giving different shot controls options. However, the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 497. Td
+(game didn't really have any type of influence or impact on later games.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 469. Td
+(Reflection) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 444. Td
+(Fun and experience) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 427. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 412. Td
+(Explain what made the game enjoyable or frustrating for you, using a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 399. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 384. Td
+(I enjoyed when it allowed me to choose different shots and think about my shots but the only downside was when I hit) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 371. Td
+(the ball in water hazard which made it difficult to get a good score.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 343. Td
+(Learning and research) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 326. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 311. Td
+(Reflect on what this case study taught you and how easy or difficult it was to find) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 298. Td
+(dependable information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 285. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 270. Td
+(This case study taught me how the old games used gameplay and graphics to make experience more realistic during) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 257. Td
+(old times. The difficult part was finding the reviewers since there were only few and sources available for this game.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 3 of 3) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261012191334-04'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000013425 00000 n 
+0000015258 00000 n 
+0000000015 00000 n 
+0000000546 00000 n 
+0000005145 00000 n 
+0000005250 00000 n 
+0000009834 00000 n 
+0000009939 00000 n 
+0000013494 00000 n 
+0000013619 00000 n 
+0000013750 00000 n 
+0000013884 00000 n 
+0000014022 00000 n 
+0000014146 00000 n 
+0000014275 00000 n 
+0000014407 00000 n 
+0000014543 00000 n 
+0000014671 00000 n 
+0000014798 00000 n 
+0000014927 00000 n 
+0000015060 00000 n 
+0000015162 00000 n 
+0000015510 00000 n 
+0000015596 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <0AD4F3749A5334651527B6B31D010789> <0AD4F3749A5334651527B6B31D010789> ]
+>>
+startxref
+15700
+%%EOF
