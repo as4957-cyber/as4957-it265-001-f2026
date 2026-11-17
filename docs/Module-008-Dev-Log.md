@@ -11,8 +11,8 @@
 - [ ] Start creating the game
 - [ ] Begin implementing basic player movement and soccer mechanics.
 -->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [ ]  Start creating the game
+- [x]  Decided to develop game on unity 
 
 #### Progress
 - **What I accomplished**:
